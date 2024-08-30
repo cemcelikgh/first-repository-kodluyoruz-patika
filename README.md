@@ -1,3 +1,5 @@
+# my-first-repository
+Patika Beginner Frontend Web Development Path Certification Task
 <!--    # Headin 1      -->
 
 <!--    Heading 1
@@ -11,7 +13,7 @@
 
 ---
 
-![Kodluyoruz](https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan.png)
+![Kodluyoruz](./kodluyoruz_yatay_slogan.png)
 
 ---
 
@@ -55,15 +57,15 @@
 
 ***
 
-`<html></html>` The left is HTML, the below is Java Script code.
+`<html></html>` The HTML code is on the left, and the JavaScript code is below.
 ```javascript
-console.log(Merhaba Diinya)
+console.log("Merhaba Dünya");
 ```
 ***
 
 ![Patika.dev][1]
 
-[1]: https://app.patika.dev/staticFiles/newPatikaLogo.svg
+[1]: ./newPatikaLogo.svg
 
 ***
 
